@@ -1,12 +1,8 @@
-# continuacao do exercicio encontrando raízes. 
-# Na parte anterior, encontramos intervalos onde o sinal do determinante é    
+# O objetivo desse código é encontramos intervalos onde o sinal do determinante é    
 # invertido. Isso é um sinal de que entre esses dois valores, o determinante
 # se torna zero, ou seja, uma raíz para a equacao.
-# aqui iremos "fechar o cerco" desse intervalo, tendendo a raíz, através do 
-# metodo da bisseccao. 
-# Nesse codigo, a precisao esta regulada para 10^-5. Porém, isso é facilmente
-# ajustavel na funcao bisseccao, para precisoes mais altas o mais baixas.
-
+# Determinar esses intervalos tornará possivel aplicar o método da bissecção
+# que será executado no código 3.
 
 
 # constroi a matriz Tgn a partir dos parâmetros t (matriz t x t) e l (λ)

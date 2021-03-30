@@ -1,3 +1,10 @@
+# no codigo dois os intervalos one o determinante se inverte foram encontrados.
+# Agora, aplicamos o método da bissecção, que consiste em basicamente encontrar
+# o valor central do intervalo [a,b], calcular o determinante e observar se a raíz
+# ficou entre o 'a' e o valor central, ou entre o valor central e 'b', fechando o 
+# intervalo. Repetimos o processo até a precisão 10^-5.
+
+
 def matI(t: int, L: int) -> list:
 
   m = []
