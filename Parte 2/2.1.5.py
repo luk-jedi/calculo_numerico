@@ -1,6 +1,10 @@
 # A seguir, utilizamos a fórmula para somar termos infinitos de uma
 # progressão geométrica, a fim de descobrir quais as frações que dão 
 # origem as dízimas periódicas calculadas anteriormente.
+# ATENÇÃO: Essa fórmula não está genérica. Eu tive certos problemas para
+# criar a solução genérica da soma de termos infinitos, por isso é provável
+# que a função "fractionS" na linha 50 tenha de ser alterada, a depender
+# dos valores de n que você deseja inserir.
 
 
 import math
