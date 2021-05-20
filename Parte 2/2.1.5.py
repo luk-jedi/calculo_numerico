@@ -3,7 +3,7 @@
 # origem as dízimas periódicas calculadas anteriormente.
 # ATENÇÃO: Essa fórmula não está genérica. Eu tive certos problemas para
 # criar a solução genérica da soma de termos infinitos, por isso é provável
-# que a função "fractionS" na linha 50 tenha de ser alterada, a depender
+# que a função "fractionS" na linha 51 tenha de ser alterada, a depender
 # dos valores de n que você deseja inserir.
 
 
